@@ -15,7 +15,7 @@ RAG Real Estate Advisor is an AI-powered real estate assistant leveraging LLMs a
   git clone https://github.com/Datastrokes/RAG_Real_Estate_Advisor-.git
   cd RAG_Real_Estate_Advisor-
   pip install -r requirements.txt
-
   python main.py
+  ```
 
 
